@@ -1,0 +1,7 @@
+1. Kafka was originally developed at linkedIn and was subsequently open sourced in early 2011
+2. written in java & scala
+3. kafka is a distributed streaming platform
+4. Can create real-time data pipelines & applications
+5. we can have high-throughput, fault-tolerant, scalable infra for handling streams of events
+
+
